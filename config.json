@@ -1,1 +1,9 @@
-{"version":"version-8aa36bbf0eb1494a","active":true,"offsets_updated":true}
+{
+  "version": "version-8aa36bbf0eb1494a",
+  "active": true,
+  "offsets_updated": true,
+  "injectspeed":0.5,
+  "unc":"67",
+  "sunc":"8",
+  "level":8
+}
